@@ -1,0 +1,12 @@
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/asp-net-test
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/appsettings.json
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/asp-net-test.dll
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/asp-net-test.deps.json
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/asp-net-test.runtimeconfig.json
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/asp-net-test.pdb
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/matthew/Code/atu/contemporary-software-development/ca/ca2/asp-net-test/asp-net-test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
